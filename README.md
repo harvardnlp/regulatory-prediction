@@ -3,7 +3,7 @@ Code and Data to accompany "Dilated Convolutions for Modeling Long-Distance Geno
 Data forthcoming. Please email ankitgupta@college.harvard.edu if you have any questions in the meantime.
 
 ## Current State
-Ankit is current working on a unified set of deep learning benchmarks for genomics tasks. All of these results will be included with that repository, and it will be linked here. In the meantime, feel free to email us if you have any questions.
+Ankit is current working on a unified set of deep learning benchmarks for genomics tasks. All of these results and a cleaned up version of the code will be included with that repository, and it will be linked here. In the meantime, feel free to email us if you have any questions.
 
 ## Dependencies
 
